@@ -17,7 +17,7 @@
         "espressif32"
     ],
     "build": {
-        "extraScript":"versioning.py"
+        "extraScript":"scripts/versioning.py"
     },
     "scripts": {
         "postinstall": "srcipts/install.py"
