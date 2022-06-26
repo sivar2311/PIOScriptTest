@@ -20,7 +20,7 @@
         "extraScript":"scripts/versioning.py"
     },
     "scripts": {
-        "postinstall": "srcipts/install.py"
+        "postinstall": "scripts/install.py"
     },
     "license": "CC-BY-SA-4.0"
 }
